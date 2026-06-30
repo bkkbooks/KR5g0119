@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5g0119/YP-C/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 清和真人北遊語錄
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 02:56:06.673042'
+  source:
+    repository: kanripo
+    path: KR5g0119/KR5g0119_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:0571a265704b5022b71eddf21afb3cfde3c404d0e30129acf57771cee590a3ce
