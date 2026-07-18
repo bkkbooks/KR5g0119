@@ -97,6 +97,7 @@ markers:
       ', id: KR5g0119_krp_001-bkkkrnewl14}
   - {type: line-break, offset: 190, content: '', id: KR5g0119_HFL_001-001b04}
   - {type: punctuation, offset: 190, content: (, id: KR5g0119_krp_001-bkkpn1}
+  - {type: voice, offset: 190, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 192, content: /, id: KR5g0119_krp_001-bkkpn2}
   - {type: punctuation, offset: 193, content: ), id: KR5g0119_krp_001-bkkpn3}
   - {type: variant, offset: 196, length: 1, content: 即, CK-KZ: 卽}
@@ -434,6 +435,7 @@ markers:
   - {type: line-break, offset: 1116, content: '', id: KR5g0119_HFL_001-004b01}
   - {type: substitution, offset: 1120, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16205}}
   - {type: punctuation, offset: 1123, content: (, id: KR5g0119_krp_001-bkkpn4}
+  - {type: voice, offset: 1123, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1125, content: /, id: KR5g0119_krp_001-bkkpn5}
   - {type: punctuation, offset: 1127, content: ), id: KR5g0119_krp_001-bkkpn6}
   - {type: page-break, offset: 1129, content: '', id: KR5g0119_CK-KZ_01p003b, image: JY230/CK-KZ_JY230_01p003b.png}
@@ -1366,6 +1368,7 @@ markers:
       ', id: KR5g0119_krp_001-bkkkrnewl250}
   - {type: line-break, offset: 3755, content: '', id: KR5g0119_HFL_001-012a09}
   - {type: punctuation, offset: 3766, content: (, id: KR5g0119_krp_001-bkkpn7}
+  - {type: voice, offset: 3766, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 3768, content: /, id: KR5g0119_krp_001-bkkpn8}
   - {type: punctuation, offset: 3770, content: ), id: KR5g0119_krp_001-bkkpn9}
   - {type: 'kr:newline', offset: 3774, content: '
@@ -1865,4 +1868,4 @@ markers:
 
       ', id: KR5g0119_krp_001-bkkkrnewl351}
   back: []
-hash: sha256:dd45477248328c8bef21f1910b38035ce41d8b1419c1ffbcb0685cc3724a5b91
+hash: sha256:3530c0b3cd2503d349337b393bc0f48774bf79e0e7cd67d2ce8232cea11767c4
